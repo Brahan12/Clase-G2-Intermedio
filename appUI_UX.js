@@ -1,5 +1,4 @@
 function Access() {
-  debugger
   const user = document.getElementById("username").value.trim(); // ''
   const pass = document.getElementById("password").value.trim();
   const msg = document.getElementById("msg");
